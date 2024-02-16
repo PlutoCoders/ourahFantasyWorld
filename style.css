@@ -1,0 +1,11 @@
+.HeaderBanner {
+	display: flex;
+	justify-content: center;
+    background-color: antiquewhite;
+}
+
+nav {
+	display: flex;
+	justify-content: space-evenly;
+    background-color: bisque;
+}
