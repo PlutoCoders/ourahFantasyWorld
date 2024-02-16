@@ -1,11 +1,18 @@
+body {
+    background-color: rgb(242, 251, 213);
+  }
+
 .HeaderBanner {
 	display: flex;
 	justify-content: center;
     background-color: antiquewhite;
+    padding: 10px;
+    min-height: 66px;
 }
 
 nav {
 	display: flex;
 	justify-content: space-evenly;
     background-color: bisque;
+    padding: 6px;
 }
