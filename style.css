@@ -16,13 +16,23 @@ nav {
 	justify-content: space-evenly;
     background-color: bisque;
     padding: 10px;
+    /* Below allows the navbar to take up the entire width of the screen */
+    /* position: fixed;
+    left: 0;
+    width: 100%; */
+}
+
+nav {
+   
+    background-color: bisque;
+    padding: 10px;
 }
 
 main {
 	display: flex;
 	justify-content: center;
     padding: 15px;
-    min-height: 400px;
+    min-height: 2000px;
 }
 
 footer {
