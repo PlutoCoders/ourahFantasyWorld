@@ -28,6 +28,7 @@ nav {
 	display: flex;
 	justify-content: space-evenly;
     background-color: bisque;
+    align-items: center;
     padding: 10px;
     /* Below allows the navbar to take up the entire width of the screen */
     /* position: fixed;
@@ -35,6 +36,7 @@ nav {
     width: 100%; */
     /* Font Weight here is not doing anything? */
     font-weight:600;
+    gap: 7px;
 }
 
 main {
@@ -61,4 +63,14 @@ footer {
     align-items: center;
     background-color: rgb(67, 221, 255);
     min-height: 150px;
+}
+
+.NavSymbol {
+    height: 30px;
+}
+
+#NavSymbolLogo {
+    height: 72px;
+    position: relative;
+    top: -30px;
 }
