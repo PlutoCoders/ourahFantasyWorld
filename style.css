@@ -57,6 +57,10 @@ nav {
     top: 0;
 }
 
+.NavItem a {
+    font-weight: 700;
+}
+
 .hoverLink {
     position: relative;
     max-height: fit-content;
