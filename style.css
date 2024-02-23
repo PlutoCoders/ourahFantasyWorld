@@ -52,6 +52,11 @@ nav {
     gap: 7px;
 }
 
+.stickToTop {
+    position: sticky;
+    top: 0;
+}
+
 .hoverLink {
     position: relative;
     max-height: fit-content;
